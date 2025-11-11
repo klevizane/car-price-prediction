@@ -10,7 +10,7 @@ st.set_page_config(layout="centered")
 # Load model (Handling Load Error)
 try:
     # Attempt to load the model from your specific path
-    model = joblib.load("klevizane/car-price-prediction/Model/final_model.pkl")
+    model = joblib.load("Model/final_model.pkl")
     MODEL_LOADED = True
 except Exception as e:
     # Use a mock model if loading fails
