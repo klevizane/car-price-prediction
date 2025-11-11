@@ -3,17 +3,14 @@ import pandas as pd
 import joblib
 import numpy as np
 
-# -----------------------------
 # Page configuration
-# -----------------------------
 st.set_page_config(layout="centered")
 
-# -----------------------------
+
 # Load model (Handling Load Error)
-# -----------------------------
 try:
     # Attempt to load the model from your specific path
-    model = joblib.load("/Users/klevizane/Documents/DS_Quant/03_Proyectos/DS/car_predict_price/Nuevo/Model/final_model.pkl")
+    model = joblib.load("/Model/final_model.pkl")
     MODEL_LOADED = True
 except Exception as e:
     # Use a mock model if loading fails
@@ -25,9 +22,7 @@ except Exception as e:
             return np.array([10.819])
     model = MockModel()
 
-# -----------------------------
 # Mappings and Data
-# -----------------------------
 model_mapping = {
     'Aston Martin': ['DB11', 'DBX707', 'Vantage'], 
     'Audi': ['A3', 'A4', 'A4 allroad', 'A5', 'A6', 'A6 allroad', 'A7', 'A8', 'Q3', 'Q4 Sportback e-tron', 'Q4 e-tron', 'Q5', 'Q5 Sportback', 'Q7', 'Q8', 'Q8 Sportback e-tron', 'Q8 e-tron', 'R8', 'RS 3', 'RS 5', 'RS 6', 'RS 7', 'RS Q8', 'RS e-tron GT', 'S3', 'S4', 'S5', 'S6', 'S7', 'S8', 'SQ5', 'SQ5 Sportback', 'SQ7', 'SQ8', 'SQ8 Sportback e-tron', 'SQ8 e-tron', 'TT', 'TTS', 'e-tron', 'e-tron GT', 'e-tron S', 'e-tron S Sportback', 'e-tron Sportback'], 
@@ -82,9 +77,7 @@ brand_tier_mapping = {
 }
 
 
-# -----------------------------
 # Sidebar: User input
-# -----------------------------
 def get_user_input():
     st.sidebar.header("Vehicle Specifications")
 
@@ -139,10 +132,8 @@ def get_user_input():
     }
     return user_data
 
-# -----------------------------
-# Main Layout and Prediction Logic
-# -----------------------------
 
+# Main Layout and Prediction Logic
 st.markdown("<h1 style='text-align: center;'>Vehicle Price Prediction </h1>", unsafe_allow_html=True)
 st.markdown("---")
 
@@ -186,4 +177,3 @@ with col2:
         except Exception as e:
             st.error(f"Error during prediction. Ensure the model ('final_model.pkl') and preprocessing are aligned with the 12 input columns. Detail: {e}")
 
-# How to run: streamlit run "/Users/klevizane/Documents/DS_Quant/03_Proyectos/DS/car_predict_price/Nuevo/app_final.py"
