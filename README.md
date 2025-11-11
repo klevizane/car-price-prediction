@@ -35,7 +35,7 @@ Analysis of the baseline model residuals revealed that the model struggled with 
 
 The systematic feature engineering effort led to a significant performance boost, which was then fine-tuned via hyperparameter optimization.
 
-| Metric | Initial Baseline | Post-Feature Engineering | Optimized Model (GridSearchCV) | Total MAE Reduction |
+| Metric | Initial Baseline | Post-Feature Engineering | Optimized Model (GridSearchCV) | Difference |
 | :--- | :--- | :--- | :--- | :--- |
 | **R²** | 0.9461 | 0.9541 | **0.9622** | +1.61 pts |
 | **RMSE** | $12,326.29 | $9,707.57 | **$8,810.43** | **-28.52%** |
