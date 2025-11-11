@@ -1,0 +1,745 @@
+Make,Model,Year,Body Size,Body Style,Cylinders,Engine Aspiration,Drivetrain,Transmission,Horsepower,Torque,MSRP,common_range,mid_high_range,luxury_range,extreme_range
+Aston Martin,DB11,2023,Midsize,Convertible,V8,Twin-Turbo,RWD,automatic,528.0,497.0,233200.0,0,0,1,0
+Aston Martin,DB11,2023,Midsize,Coupe,V8,Twin-Turbo,RWD,automatic,528.0,497.0,217000.0,0,0,1,0
+Aston Martin,DBX707,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,697.0,663.0,236000.0,0,0,1,0
+Aston Martin,DBX707,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,697.0,663.0,242000.0,0,0,1,0
+Aston Martin,Vantage,2023,Compact,Convertible,V12,Twin-Turbo,RWD,automatic,690.0,555.0,348700.0,0,0,0,1
+Aston Martin,Vantage,2023,Compact,Convertible,V8,Twin-Turbo,RWD,automatic,503.0,505.0,159800.0,0,1,0,0
+Aston Martin,Vantage,2023,Compact,Convertible,V8,Twin-Turbo,RWD,automatic,528.0,505.0,187000.0,0,0,1,0
+Aston Martin,Vantage,2023,Compact,Coupe,V12,Twin-Turbo,RWD,automatic,690.0,555.0,298200.0,0,0,0,1
+Aston Martin,Vantage,2023,Compact,Coupe,V8,Twin-Turbo,RWD,automatic,503.0,505.0,148200.0,0,1,0,0
+Audi,A3,2023,Compact,Sedan,I4,Turbocharged,AWD,automatic,201.0,221.0,39100.0,1,0,0,0
+Audi,A3,2023,Compact,Sedan,I4,Turbocharged,FWD,automatic,201.0,221.0,37100.0,1,0,0,0
+Audi,A3,2024,Compact,Sedan,I4,Turbocharged,AWD,automatic,201.0,221.0,39600.0,1,0,0,0
+Audi,A3,2024,Compact,Sedan,I4,Turbocharged,FWD,automatic,201.0,221.0,37600.0,1,0,0,0
+Audi,A4,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,201.0,236.0,45400.0,1,0,0,0
+Audi,A4,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,261.0,273.0,47000.0,1,0,0,0
+Audi,A4,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,201.0,236.0,46100.0,1,0,0,0
+Audi,A4,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,261.0,273.0,47700.0,1,0,0,0
+Audi,A4 allroad,2023,Midsize,Wagon,I4,Turbocharged,AWD,automatic,261.0,273.0,50500.0,1,0,0,0
+Audi,A4 allroad,2024,Midsize,Wagon,I4,Turbocharged,AWD,automatic,261.0,273.0,51200.0,1,0,0,0
+Audi,A5,2023,Midsize,Convertible,I4,Turbocharged,AWD,automatic,261.0,273.0,59000.0,1,0,0,0
+Audi,A5,2023,Midsize,Coupe,I4,Turbocharged,AWD,automatic,261.0,273.0,51800.0,1,0,0,0
+Audi,A5,2023,Midsize,Hatchback,I4,Turbocharged,AWD,automatic,201.0,236.0,49700.0,1,0,0,0
+Audi,A5,2023,Midsize,Hatchback,I4,Turbocharged,AWD,automatic,261.0,273.0,51800.0,1,0,0,0
+Audi,A5,2024,Midsize,Convertible,I4,Turbocharged,AWD,automatic,261.0,273.0,59700.0,1,0,0,0
+Audi,A5,2024,Midsize,Coupe,I4,Turbocharged,AWD,automatic,261.0,273.0,52500.0,1,0,0,0
+Audi,A5,2024,Midsize,Hatchback,I4,Turbocharged,AWD,automatic,201.0,236.0,50400.0,1,0,0,0
+Audi,A5,2024,Midsize,Hatchback,I4,Turbocharged,AWD,automatic,261.0,273.0,52500.0,1,0,0,0
+Audi,A6,2023,Large,Sedan,I4,Turbocharged,AWD,automatic,261.0,273.0,58850.0,1,0,0,0
+Audi,A6,2023,Large,Sedan,V6,Turbocharged,AWD,automatic,335.0,369.0,64700.0,1,0,0,0
+Audi,A6,2024,Large,Sedan,I4,Turbocharged,AWD,automatic,261.0,273.0,59850.0,1,0,0,0
+Audi,A6,2024,Large,Sedan,V6,Turbocharged,AWD,automatic,335.0,369.0,66100.0,1,0,0,0
+Audi,A6 allroad,2023,Midsize,Wagon,V6,Turbocharged,AWD,automatic,335.0,369.0,70650.0,1,0,0,0
+Audi,A6 allroad,2024,Midsize,Wagon,V6,Turbocharged,AWD,automatic,335.0,369.0,71950.0,1,0,0,0
+Audi,A7,2023,Large,Sedan,V6,Turbocharged,AWD,automatic,335.0,369.0,75350.0,1,0,0,0
+Audi,A7,2024,Large,Sedan,V6,Turbocharged,AWD,automatic,335.0,369.0,76750.0,1,0,0,0
+Audi,A8,2023,Large,Sedan,V6,Turbocharged,AWD,automatic,335.0,369.0,87800.0,1,0,0,0
+Audi,A8,2024,Large,Sedan,V6,Turbocharged,AWD,automatic,335.0,369.0,90900.0,1,0,0,0
+Audi,Q3,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,184.0,221.0,38450.0,1,0,0,0
+Audi,Q3,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,228.0,251.0,40850.0,1,0,0,0
+Audi,Q3,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,184.0,221.0,38800.0,1,0,0,0
+Audi,Q3,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,228.0,251.0,41200.0,1,0,0,0
+Audi,Q4 Sportback e-tron,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,295.0,339.0,64400.0,1,0,0,0
+Audi,Q4 Sportback e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,295.0,339.0,62900.0,1,0,0,0
+Audi,Q4 Sportback e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,357.44,62900.0,1,0,0,0
+Audi,Q4 Sportback e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,366.14,58200.0,1,0,0,0
+Audi,Q4 Sportback e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,369.29,65200.0,1,0,0,0
+Audi,Q4 e-tron,2023,Midsize,SUV,I4,Electric Motor,RWD,automatic,201.0,229.0,52900.0,1,0,0,0
+Audi,Q4 e-tron,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,295.0,339.0,61400.0,1,0,0,0
+Audi,Q4 e-tron,2024,Midsize,SUV,I4,Electric Motor,RWD,automatic,201.0,229.0,52150.0,1,0,0,0
+Audi,Q4 e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,295.0,339.0,59900.0,1,0,0,0
+Audi,Q4 e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,357.55,62200.0,1,0,0,0
+Audi,Q4 e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,366.14,59900.0,1,0,0,0
+Audi,Q4 e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,366.6,55200.0,1,0,0,0
+Audi,Q5,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,201.0,236.0,49400.0,1,0,0,0
+Audi,Q5,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,261.0,273.0,51900.0,1,0,0,0
+Audi,Q5,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,362.0,369.0,61700.0,1,0,0,0
+Audi,Q5,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,201.0,236.0,50100.0,1,0,0,0
+Audi,Q5,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,261.0,273.0,53000.0,1,0,0,0
+Audi,Q5,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,362.0,369.0,62400.0,1,0,0,0
+Audi,Q5 Sportback,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,261.0,273.0,54600.0,1,0,0,0
+Audi,Q5 Sportback,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,261.0,273.0,55400.0,1,0,0,0
+Audi,Q7,2023,Large,SUV,I4,Turbocharged,AWD,automatic,261.0,273.0,61250.0,1,0,0,0
+Audi,Q7,2023,Large,SUV,V6,Turbocharged,AWD,automatic,335.0,369.0,68400.0,1,0,0,0
+Audi,Q7,2024,Large,SUV,I4,Turbocharged,AWD,automatic,261.0,273.0,61400.0,1,0,0,0
+Audi,Q7,2024,Large,SUV,V6,Turbocharged,AWD,automatic,335.0,369.0,69100.0,1,0,0,0
+Audi,Q8,2023,Large,SUV,V6,Turbocharged,AWD,automatic,335.0,369.0,77300.0,1,0,0,0
+Audi,Q8,2024,Large,SUV,V6,Turbocharged,AWD,automatic,335.0,369.0,77800.0,1,0,0,0
+Audi,Q8 Sportback e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,402.0,480.0,82200.0,1,0,0,0
+Audi,Q8 e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,402.0,480.0,81800.0,1,0,0,0
+Audi,Q8 e-tron,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,402.0,498.4,74400.0,1,0,0,0
+Audi,R8,2023,Compact,Convertible,V10,Naturally Aspirated,AWD,automatic,602.0,413.0,222100.0,0,0,1,0
+Audi,R8,2023,Compact,Convertible,V10,Naturally Aspirated,RWD,automatic,562.0,406.0,171000.0,0,1,0,0
+Audi,R8,2023,Compact,Coupe,V10,Naturally Aspirated,AWD,automatic,602.0,413.0,209700.0,0,0,1,0
+Audi,R8,2023,Compact,Coupe,V10,Naturally Aspirated,RWD,automatic,562.0,406.0,158600.0,0,1,0,0
+Audi,R8,2023,Compact,Coupe,V10,Naturally Aspirated,RWD,automatic,602.0,413.0,249900.0,0,0,1,0
+Audi,RS 3,2023,Compact,Sedan,I5,Turbocharged,AWD,automatic,401.0,369.0,60900.0,1,0,0,0
+Audi,RS 3,2024,Compact,Sedan,I5,Turbocharged,AWD,automatic,401.0,369.0,62300.0,1,0,0,0
+Audi,RS 5,2023,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,444.0,442.0,77900.0,1,0,0,0
+Audi,RS 5,2023,Midsize,Hatchback,V6,Twin-Turbo,AWD,automatic,444.0,442.0,78200.0,1,0,0,0
+Audi,RS 5,2024,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,444.0,442.0,79600.0,1,0,0,0
+Audi,RS 5,2024,Midsize,Hatchback,V6,Twin-Turbo,AWD,automatic,444.0,442.0,79900.0,1,0,0,0
+Audi,RS 6,2023,Large,Wagon,V8,Twin-Turbo,AWD,automatic,591.0,590.0,121900.0,0,1,0,0
+Audi,RS 6,2024,Large,Wagon,V8,Twin-Turbo,AWD,automatic,621.0,627.0,125800.0,0,1,0,0
+Audi,RS 7,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,591.0,590.0,123900.0,0,1,0,0
+Audi,RS 7,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,621.0,627.0,127800.0,0,1,0,0
+Audi,RS Q8,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,591.0,590.0,125800.0,0,1,0,0
+Audi,RS Q8,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,591.0,590.0,125800.0,0,1,0,0
+Audi,RS e-tron GT,2023,Large,Sedan,V8,Electric Motor,AWD,automatic,637.0,612.0,143900.0,0,1,0,0
+Audi,RS e-tron GT,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,637.0,612.0,147100.0,0,1,0,0
+Audi,S3,2023,Compact,Sedan,I4,Turbocharged,AWD,automatic,306.0,295.0,49500.0,1,0,0,0
+Audi,S3,2024,Compact,Sedan,I4,Turbocharged,AWD,automatic,306.0,295.0,50300.0,1,0,0,0
+Audi,S4,2023,Midsize,Sedan,V6,Turbocharged,AWD,automatic,349.0,369.0,56800.0,1,0,0,0
+Audi,S4,2024,Midsize,Sedan,V6,Turbocharged,AWD,automatic,349.0,369.0,57500.0,1,0,0,0
+Audi,S5,2023,Midsize,Convertible,V6,Turbocharged,AWD,automatic,349.0,369.0,68400.0,1,0,0,0
+Audi,S5,2023,Midsize,Coupe,V6,Turbocharged,AWD,automatic,349.0,369.0,59800.0,1,0,0,0
+Audi,S5,2023,Midsize,Hatchback,V6,Turbocharged,AWD,automatic,349.0,369.0,59800.0,1,0,0,0
+Audi,S5,2024,Midsize,Convertible,V6,Turbocharged,AWD,automatic,349.0,369.0,69100.0,1,0,0,0
+Audi,S5,2024,Midsize,Coupe,V6,Turbocharged,AWD,automatic,349.0,369.0,60500.0,1,0,0,0
+Audi,S5,2024,Midsize,Hatchback,V6,Turbocharged,AWD,automatic,349.0,369.0,60500.0,1,0,0,0
+Audi,S6,2023,Large,Sedan,V6,Twincharged,AWD,automatic,444.0,442.0,78400.0,1,0,0,0
+Audi,S6,2024,Large,Sedan,V6,Twincharged,AWD,automatic,444.0,442.0,79800.0,1,0,0,0
+Audi,S7,2023,Large,Sedan,V6,Twincharged,AWD,automatic,444.0,442.0,87700.0,1,0,0,0
+Audi,S7,2024,Large,Sedan,V6,Twincharged,AWD,automatic,444.0,442.0,89100.0,1,0,0,0
+Audi,S8,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,563.0,590.0,120500.0,0,1,0,0
+Audi,S8,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,563.0,590.0,123400.0,0,1,0,0
+Audi,SQ5,2023,Midsize,SUV,V6,Turbocharged,AWD,automatic,349.0,369.0,60900.0,1,0,0,0
+Audi,SQ5,2024,Midsize,SUV,V6,Turbocharged,AWD,automatic,349.0,369.0,61700.0,1,0,0,0
+Audi,SQ5 Sportback,2023,Midsize,SUV,V6,Turbocharged,AWD,automatic,349.0,369.0,63300.0,1,0,0,0
+Audi,SQ5 Sportback,2024,Midsize,SUV,V6,Turbocharged,AWD,automatic,349.0,369.0,64100.0,1,0,0,0
+Audi,SQ7,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,500.0,568.0,92550.0,1,0,0,0
+Audi,SQ7,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,500.0,568.0,92650.0,1,0,0,0
+Audi,SQ8,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,500.0,568.0,98500.0,1,0,0,0
+Audi,SQ8,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,500.0,568.0,100100.0,1,0,0,0
+Audi,SQ8 Sportback e-tron,2024,Midsize,SUV,V8,Electric Motor,AWD,automatic,496.0,718.0,95600.0,1,0,0,0
+Audi,SQ8 e-tron,2024,Midsize,SUV,V8,Electric Motor,AWD,automatic,496.0,718.0,92800.0,1,0,0,0
+Audi,TT,2023,Compact,Convertible,I4,Turbocharged,AWD,automatic,228.0,258.0,56300.0,1,0,0,0
+Audi,TT,2023,Compact,Coupe,I4,Turbocharged,AWD,automatic,228.0,258.0,52200.0,1,0,0,0
+Audi,TTS,2023,Compact,Coupe,I4,Turbocharged,AWD,automatic,288.0,280.0,61900.0,1,0,0,0
+Audi,e-tron,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,402.0,490.0,77800.0,1,0,0,0
+Audi,e-tron GT,2023,Large,Sedan,V6,Electric Motor,AWD,automatic,522.0,472.0,108100.0,0,1,0,0
+Audi,e-tron GT,2024,Large,Sedan,V6,Electric Motor,AWD,automatic,522.0,472.0,110500.0,0,1,0,0
+Audi,e-tron S,2023,Midsize,SUV,V8,Electric Motor,AWD,automatic,496.0,717.0,91750.0,1,0,0,0
+Audi,e-tron S Sportback,2023,Midsize,SUV,V8,Electric Motor,AWD,automatic,496.0,717.0,94350.0,1,0,0,0
+Audi,e-tron Sportback,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,402.0,490.0,81000.0,1,0,0,0
+BMW,2 Series,2023,Compact,Coupe,I4,Turbocharged,AWD,automatic,255.0,295.0,40200.0,1,0,0,0
+BMW,2 Series,2023,Compact,Coupe,I4,Turbocharged,RWD,automatic,255.0,295.0,38200.0,1,0,0,0
+BMW,2 Series,2023,Compact,Coupe,I6,Turbocharged,AWD,automatic,382.0,369.0,50900.0,1,0,0,0
+BMW,2 Series,2023,Compact,Coupe,I6,Turbocharged,RWD,automatic,382.0,369.0,48900.0,1,0,0,0
+BMW,2 Series,2024,Compact,Coupe,I4,Turbocharged,AWD,automatic,255.0,295.0,40800.0,1,0,0,0
+BMW,2 Series,2024,Compact,Coupe,I4,Turbocharged,RWD,automatic,255.0,295.0,38800.0,1,0,0,0
+BMW,2 Series,2024,Compact,Coupe,I6,Turbocharged,AWD,automatic,382.0,369.0,51700.0,1,0,0,0
+BMW,2 Series,2024,Compact,Coupe,I6,Turbocharged,RWD,automatic,382.0,369.0,49700.0,1,0,0,0
+BMW,2 Series Gran Coupe,2023,Compact,Sedan,I4,Turbocharged,AWD,automatic,228.0,258.0,38600.0,1,0,0,0
+BMW,2 Series Gran Coupe,2023,Compact,Sedan,I4,Turbocharged,AWD,automatic,302.0,331.0,46400.0,1,0,0,0
+BMW,2 Series Gran Coupe,2023,Compact,Sedan,I4,Turbocharged,FWD,automatic,228.0,258.0,36600.0,1,0,0,0
+BMW,2 Series Gran Coupe,2024,Compact,Sedan,I4,Turbocharged,AWD,automatic,228.0,258.0,40400.0,1,0,0,0
+BMW,2 Series Gran Coupe,2024,Compact,Sedan,I4,Turbocharged,AWD,automatic,302.0,332.0,48300.0,1,0,0,0
+BMW,2 Series Gran Coupe,2024,Compact,Sedan,I4,Turbocharged,FWD,automatic,228.0,258.0,38400.0,1,0,0,0
+BMW,3 Series,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,45800.0,1,0,0,0
+BMW,3 Series,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,288.0,310.0,46900.0,1,0,0,0
+BMW,3 Series,2023,Midsize,Sedan,I4,Turbocharged,RWD,automatic,255.0,295.0,43800.0,1,0,0,0
+BMW,3 Series,2023,Midsize,Sedan,I4,Turbocharged,RWD,automatic,288.0,310.0,44900.0,1,0,0,0
+BMW,3 Series,2023,Midsize,Sedan,I6,Turbocharged,AWD,automatic,382.0,368.0,58400.0,1,0,0,0
+BMW,3 Series,2023,Midsize,Sedan,I6,Turbocharged,RWD,automatic,382.0,368.0,56400.0,1,0,0,0
+BMW,3 Series,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,46500.0,1,0,0,0
+BMW,3 Series,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,288.0,310.0,47600.0,1,0,0,0
+BMW,3 Series,2024,Midsize,Sedan,I4,Turbocharged,RWD,automatic,255.0,295.0,44500.0,1,0,0,0
+BMW,3 Series,2024,Midsize,Sedan,I4,Turbocharged,RWD,automatic,288.0,310.0,45600.0,1,0,0,0
+BMW,3 Series,2024,Midsize,Sedan,I6,Turbocharged,AWD,automatic,382.0,369.0,59600.0,1,0,0,0
+BMW,3 Series,2024,Midsize,Sedan,I6,Turbocharged,RWD,automatic,382.0,369.0,57600.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Convertible,I4,Turbocharged,AWD,automatic,255.0,295.0,57500.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Convertible,I4,Turbocharged,RWD,automatic,255.0,295.0,55500.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Convertible,I6,Turbocharged,AWD,automatic,382.0,369.0,68250.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Convertible,I6,Turbocharged,RWD,automatic,382.0,369.0,66250.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Coupe,I4,Turbocharged,AWD,automatic,255.0,295.0,49400.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Coupe,I4,Turbocharged,RWD,automatic,255.0,295.0,47400.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Coupe,I6,Turbocharged,AWD,automatic,382.0,369.0,60250.0,1,0,0,0
+BMW,4 Series,2023,Midsize,Coupe,I6,Turbocharged,RWD,automatic,382.0,369.0,58250.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Convertible,I4,Turbocharged,AWD,automatic,255.0,295.0,60100.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Convertible,I4,Turbocharged,RWD,automatic,255.0,295.0,58100.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Convertible,I6,Turbocharged,AWD,automatic,382.0,369.0,71550.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Convertible,I6,Turbocharged,RWD,automatic,382.0,369.0,69550.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Coupe,I4,Turbocharged,AWD,automatic,255.0,295.0,51900.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Coupe,I4,Turbocharged,RWD,automatic,255.0,295.0,49900.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Coupe,I6,Turbocharged,AWD,automatic,382.0,369.0,63450.0,1,0,0,0
+BMW,4 Series,2024,Midsize,Coupe,I6,Turbocharged,RWD,automatic,382.0,369.0,61450.0,1,0,0,0
+BMW,4 Series Gran Coupe,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,255.0,294.0,47900.0,1,0,0,0
+BMW,4 Series Gran Coupe,2023,Midsize,Sedan,I4,Turbocharged,RWD,automatic,255.0,294.0,45900.0,1,0,0,0
+BMW,4 Series Gran Coupe,2023,Midsize,Sedan,I6,Turbocharged,AWD,automatic,382.0,369.0,59450.0,1,0,0,0
+BMW,4 Series Gran Coupe,2023,Midsize,Sedan,I6,Turbocharged,RWD,automatic,382.0,369.0,57450.0,1,0,0,0
+BMW,4 Series Gran Coupe,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,50300.0,1,0,0,0
+BMW,4 Series Gran Coupe,2024,Midsize,Sedan,I4,Turbocharged,RWD,automatic,255.0,295.0,48300.0,1,0,0,0
+BMW,4 Series Gran Coupe,2024,Midsize,Sedan,I6,Turbocharged,AWD,automatic,382.0,369.0,63050.0,1,0,0,0
+BMW,4 Series Gran Coupe,2024,Midsize,Sedan,I6,Turbocharged,RWD,automatic,382.0,369.0,61050.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,I4,Turbocharged,AWD,automatic,248.0,257.0,57100.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,I4,Turbocharged,AWD,automatic,288.0,310.0,58700.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,I4,Turbocharged,RWD,automatic,248.0,257.0,54800.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,I4,Turbocharged,RWD,automatic,288.0,310.0,56400.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,I6,Turbocharged,AWD,automatic,335.0,331.0,63900.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,I6,Turbocharged,RWD,automatic,335.0,331.0,61600.0,1,0,0,0
+BMW,5 Series,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,523.0,553.0,79900.0,1,0,0,0
+BMW,5 Series,2024,Large,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,60200.0,1,0,0,0
+BMW,5 Series,2024,Large,Sedan,I4,Turbocharged,RWD,automatic,255.0,295.0,57900.0,1,0,0,0
+BMW,5 Series,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,375.0,391.91,64900.0,1,0,0,0
+BMW,7 Series,2023,Large,Sedan,I6,Turbocharged,RWD,automatic,375.0,383.0,93300.0,1,0,0,0
+BMW,7 Series,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,536.0,553.0,113600.0,0,1,0,0
+BMW,7 Series,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,375.0,398.0,99400.0,1,0,0,0
+BMW,7 Series,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,483.0,479.0,107000.0,0,1,0,0
+BMW,7 Series,2024,Large,Sedan,I6,Turbocharged,RWD,automatic,375.0,398.0,96400.0,1,0,0,0
+BMW,7 Series,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,536.0,553.0,121300.0,0,1,0,0
+BMW,8 Series,2023,Midsize,Convertible,I6,Turbocharged,AWD,automatic,335.0,368.0,100000.0,1,0,0,0
+BMW,8 Series,2023,Midsize,Convertible,I6,Turbocharged,RWD,automatic,335.0,368.0,97100.0,1,0,0,0
+BMW,8 Series,2023,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,523.0,553.0,112100.0,0,1,0,0
+BMW,8 Series,2023,Midsize,Coupe,I6,Turbocharged,AWD,automatic,335.0,368.0,90400.0,1,0,0,0
+BMW,8 Series,2023,Midsize,Coupe,I6,Turbocharged,RWD,automatic,335.0,368.0,87500.0,1,0,0,0
+BMW,8 Series,2023,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,523.0,553.0,102500.0,1,0,0,0
+BMW,8 Series,2024,Midsize,Convertible,I6,Turbocharged,AWD,automatic,335.0,369.0,103500.0,0,1,0,0
+BMW,8 Series,2024,Midsize,Convertible,I6,Turbocharged,RWD,automatic,335.0,369.0,100500.0,1,0,0,0
+BMW,8 Series,2024,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,523.0,553.0,116000.0,0,1,0,0
+BMW,8 Series,2024,Midsize,Coupe,I6,Turbocharged,AWD,automatic,335.0,369.0,93800.0,1,0,0,0
+BMW,8 Series,2024,Midsize,Coupe,I6,Turbocharged,RWD,automatic,335.0,369.0,90800.0,1,0,0,0
+BMW,8 Series,2024,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,523.0,553.0,106300.0,0,1,0,0
+BMW,8 Series Gran Coupe,2023,Large,Sedan,I6,Turbocharged,AWD,automatic,335.0,368.0,90400.0,1,0,0,0
+BMW,8 Series Gran Coupe,2023,Large,Sedan,I6,Turbocharged,RWD,automatic,335.0,368.0,87500.0,1,0,0,0
+BMW,8 Series Gran Coupe,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,523.0,553.0,102500.0,1,0,0,0
+BMW,8 Series Gran Coupe,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,335.0,369.0,93800.0,1,0,0,0
+BMW,8 Series Gran Coupe,2024,Large,Sedan,I6,Turbocharged,RWD,automatic,335.0,369.0,90800.0,1,0,0,0
+BMW,8 Series Gran Coupe,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,523.0,553.0,106300.0,0,1,0,0
+BMW,ALPINA B8 Gran Coupe,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,612.0,590.0,144900.0,0,1,0,0
+BMW,ALPINA B8 Gran Coupe,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,612.0,590.0,149300.0,0,1,0,0
+BMW,ALPINA XB7,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,630.0,590.0,145000.0,0,1,0,0
+BMW,ALPINA XB7,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,630.0,590.0,149400.0,0,1,0,0
+BMW,M2,2023,Compact,Coupe,I6,Twin-Turbo,RWD,manual,453.0,406.0,62200.0,1,0,0,0
+BMW,M2,2024,Compact,Coupe,I6,Twin-Turbo,RWD,manual,453.0,406.0,63200.0,1,0,0,0
+BMW,M3,2023,Midsize,Sedan,I6,Twin-Turbo,AWD,automatic,503.0,479.0,80800.0,1,0,0,0
+BMW,M3,2023,Midsize,Sedan,I6,Twin-Turbo,RWD,automatic,503.0,479.0,76700.0,1,0,0,0
+BMW,M3,2023,Midsize,Sedan,I6,Twin-Turbo,RWD,manual,473.0,406.0,72800.0,1,0,0,0
+BMW,M3,2024,Midsize,Sedan,I6,Twin-Turbo,AWD,automatic,503.0,479.0,84300.0,1,0,0,0
+BMW,M3,2024,Midsize,Sedan,I6,Twin-Turbo,RWD,automatic,503.0,479.0,80200.0,1,0,0,0
+BMW,M3,2024,Midsize,Sedan,I6,Twin-Turbo,RWD,manual,473.0,406.0,76000.0,1,0,0,0
+BMW,M3 CS,2024,Midsize,Sedan,I6,Twin-Turbo,AWD,automatic,543.0,479.0,118700.0,0,1,0,0
+BMW,M4,2023,Midsize,Convertible,I6,Twin-Turbo,AWD,automatic,503.0,479.0,89700.0,1,0,0,0
+BMW,M4,2023,Midsize,Coupe,I6,Twin-Turbo,AWD,automatic,503.0,479.0,82700.0,1,0,0,0
+BMW,M4,2023,Midsize,Coupe,I6,Twin-Turbo,RWD,automatic,503.0,479.0,78600.0,1,0,0,0
+BMW,M4,2023,Midsize,Coupe,I6,Twin-Turbo,RWD,manual,473.0,406.0,74700.0,1,0,0,0
+BMW,M4,2024,Midsize,Convertible,I6,Twin-Turbo,AWD,automatic,503.0,479.0,93300.0,1,0,0,0
+BMW,M4,2024,Midsize,Coupe,I6,Twin-Turbo,AWD,automatic,503.0,479.0,86300.0,1,0,0,0
+BMW,M4,2024,Midsize,Coupe,I6,Twin-Turbo,RWD,automatic,503.0,479.0,82200.0,1,0,0,0
+BMW,M4,2024,Midsize,Coupe,I6,Twin-Turbo,RWD,manual,473.0,406.0,78100.0,1,0,0,0
+BMW,M4 CSL,2023,Midsize,Coupe,I6,Twin-Turbo,RWD,automatic,543.0,479.0,139900.0,0,1,0,0
+BMW,M5,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,600.0,553.0,107900.0,0,1,0,0
+BMW,M8,2023,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,617.0,553.0,143700.0,0,1,0,0
+BMW,M8,2023,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,617.0,553.0,134100.0,0,1,0,0
+BMW,M8,2024,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,617.0,553.0,148800.0,0,1,0,0
+BMW,M8,2024,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,617.0,553.0,138800.0,0,1,0,0
+BMW,M8 Gran Coupe,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,617.0,553.0,134100.0,0,1,0,0
+BMW,M8 Gran Coupe,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,617.0,553.0,138800.0,0,1,0,0
+BMW,X1,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,241.0,295.0,38600.0,1,0,0,0
+BMW,X1,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,241.0,295.0,40500.0,1,0,0,0
+BMW,X1,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,312.0,295.0,49900.0,1,0,0,0
+BMW,X2,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,228.0,258.0,38600.0,1,0,0,0
+BMW,X2,2023,Compact,SUV,I4,Turbocharged,FWD,automatic,228.0,258.0,36600.0,1,0,0,0
+BMW,X2,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,241.0,295.0,42000.0,1,0,0,0
+BMW,X2,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,312.0,295.0,51400.0,1,0,0,0
+BMW,X3,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,248.0,258.0,47400.0,1,0,0,0
+BMW,X3,2023,Midsize,SUV,I4,Turbocharged,RWD,automatic,248.0,258.0,45400.0,1,0,0,0
+BMW,X3,2023,Midsize,SUV,I6,Turbocharged,AWD,automatic,382.0,369.0,59950.0,1,0,0,0
+BMW,X3,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,248.0,258.0,48900.0,1,0,0,0
+BMW,X3,2024,Midsize,SUV,I4,Turbocharged,RWD,automatic,248.0,258.0,46900.0,1,0,0,0
+BMW,X3,2024,Midsize,SUV,I6,Turbocharged,AWD,automatic,382.0,369.0,61900.0,1,0,0,0
+BMW,X3 M,2023,Midsize,SUV,I6,Twin-Turbo,AWD,automatic,473.0,457.0,72900.0,1,0,0,0
+BMW,X3 M,2024,Midsize,SUV,I6,Twin-Turbo,AWD,automatic,473.0,457.0,75500.0,1,0,0,0
+BMW,X4,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,248.0,258.0,53400.0,1,0,0,0
+BMW,X4,2023,Midsize,SUV,I6,Turbocharged,AWD,automatic,382.0,369.0,64650.0,1,0,0,0
+BMW,X4,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,248.0,258.0,55000.0,1,0,0,0
+BMW,X4,2024,Midsize,SUV,I6,Turbocharged,AWD,automatic,382.0,369.0,66400.0,1,0,0,0
+BMW,X4 M,2023,Midsize,SUV,I6,Twin-Turbo,AWD,automatic,473.0,457.0,76400.0,1,0,0,0
+BMW,X4 M,2024,Midsize,SUV,I6,Twin-Turbo,AWD,automatic,473.0,457.0,79100.0,1,0,0,0
+BMW,X5,2023,Large,SUV,I6,Turbocharged,AWD,automatic,335.0,331.0,63900.0,1,0,0,0
+BMW,X5,2023,Large,SUV,I6,Turbocharged,AWD,automatic,389.0,443.0,65700.0,1,0,0,0
+BMW,X5,2023,Large,SUV,I6,Turbocharged,RWD,automatic,335.0,331.0,61600.0,1,0,0,0
+BMW,X5,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,523.0,553.0,85400.0,1,0,0,0
+BMW,X5,2024,Large,SUV,I6,Turbocharged,AWD,automatic,375.0,398.0,67500.0,1,0,0,0
+BMW,X5,2024,Large,SUV,I6,Turbocharged,AWD,automatic,483.0,516.0,72500.0,1,0,0,0
+BMW,X5,2024,Large,SUV,I6,Turbocharged,RWD,automatic,375.0,398.0,65200.0,1,0,0,0
+BMW,X5,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,523.0,553.0,89300.0,1,0,0,0
+BMW,X5 M,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,600.0,553.0,108900.0,0,1,0,0
+BMW,X5 M,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,617.0,553.0,122300.0,0,1,0,0
+BMW,X6,2023,Large,SUV,I6,Turbocharged,AWD,automatic,335.0,331.0,70100.0,1,0,0,0
+BMW,X6,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,523.0,553.0,89100.0,1,0,0,0
+BMW,X6,2024,Large,SUV,I6,Turbocharged,AWD,automatic,375.0,398.0,73900.0,1,0,0,0
+BMW,X6,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,523.0,553.0,93600.0,1,0,0,0
+BMW,X6 M,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,600.0,553.0,113700.0,0,1,0,0
+BMW,X6 M,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,617.0,553.0,127200.0,0,1,0,0
+BMW,X7,2023,Large,SUV,I6,Turbocharged,AWD,automatic,375.0,398.0,77850.0,1,0,0,0
+BMW,X7,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,523.0,553.0,103100.0,0,1,0,0
+BMW,X7,2024,Large,SUV,I6,Turbocharged,AWD,automatic,375.0,398.0,81900.0,1,0,0,0
+BMW,X7,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,523.0,553.0,108700.0,0,1,0,0
+BMW,XM,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,644.0,590.0,159000.0,0,1,0,0
+BMW,XM,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,644.0,590.0,159000.0,0,1,0,0
+BMW,XM,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,738.0,738.0,185000.0,0,0,1,0
+BMW,Z4,2023,Compact,Convertible,I4,Turbocharged,RWD,automatic,255.0,295.0,52800.0,1,0,0,0
+BMW,Z4,2023,Compact,Convertible,I6,Turbocharged,RWD,automatic,382.0,369.0,65300.0,1,0,0,0
+BMW,Z4,2024,Compact,Convertible,I4,Turbocharged,RWD,automatic,255.0,295.0,53600.0,1,0,0,0
+BMW,Z4,2024,Compact,Convertible,I6,Turbocharged,RWD,automatic,382.0,369.0,66300.0,1,0,0,0
+BMW,i4,2023,Midsize,Sedan,I4,Electric Motor,RWD,automatic,281.0,295.0,51400.0,1,0,0,0
+BMW,i4,2023,Midsize,Sedan,I4,Electric Motor,RWD,automatic,335.0,317.0,55900.0,1,0,0,0
+BMW,i4,2023,Midsize,Sedan,I6,Electric Motor,AWD,automatic,536.0,586.0,67300.0,1,0,0,0
+BMW,i4,2024,Midsize,Sedan,I4,Electric Motor,RWD,automatic,282.0,295.0,52200.0,1,0,0,0
+BMW,i4,2024,Midsize,Sedan,I4,Electric Motor,RWD,automatic,335.0,317.0,57300.0,1,0,0,0
+BMW,i4,2024,Midsize,Sedan,I6,Electric Motor,AWD,automatic,396.0,443.0,61600.0,1,0,0,0
+BMW,i4,2024,Midsize,Sedan,I6,Electric Motor,AWD,automatic,536.0,586.0,69700.0,1,0,0,0
+BMW,i5,2024,Large,Sedan,I6,Electric Motor,RWD,automatic,335.0,295.0,66800.0,1,0,0,0
+BMW,i5,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,590.0,586.0,84100.0,1,0,0,0
+BMW,i7,2023,Large,Sedan,V8,Electric Motor,AWD,automatic,536.0,549.0,119300.0,0,1,0,0
+BMW,i7,2024,Large,Sedan,I6,Electric Motor,RWD,automatic,449.0,479.0,105700.0,0,1,0,0
+BMW,i7,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,536.0,549.0,124200.0,0,1,0,0
+BMW,i7,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,650.0,811.0,168500.0,0,1,0,0
+BMW,iX,2023,Large,SUV,V8,Electric Motor,AWD,automatic,516.0,564.0,84100.0,1,0,0,0
+BMW,iX,2023,Large,SUV,V8,Electric Motor,AWD,automatic,610.0,811.0,108900.0,0,1,0,0
+BMW,iX,2024,Large,SUV,V8,Electric Motor,AWD,automatic,516.0,564.0,87100.0,1,0,0,0
+BMW,iX,2024,Large,SUV,V8,Electric Motor,AWD,automatic,610.0,749.0,111500.0,0,1,0,0
+Bentley,Bentayga,2023,Large,SUV,V6,Turbocharged,AWD,automatic,456.0,516.0,228400.0,0,0,1,0
+Bentley,Bentayga,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,542.0,568.0,231100.0,0,0,1,0
+Bentley,Bentayga,2023,Large,SUV,W12,Twin-Turbo,AWD,automatic,626.0,664.0,264600.0,0,0,1,0
+Bentley,Bentayga,2024,Large,SUV,V6,Turbocharged,AWD,automatic,456.0,516.0,223800.0,0,0,1,0
+Bentley,Bentayga,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,542.0,568.0,227800.0,0,0,1,0
+Bentley,Bentayga EWB,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,542.0,568.0,245200.0,0,0,1,0
+Bentley,Bentayga EWB,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,542.0,568.0,256750.0,0,0,1,0
+Bentley,Continental,2023,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,542.0,568.0,301750.0,0,0,0,1
+Bentley,Continental,2023,Midsize,Convertible,W12,Twin-Turbo,AWD,automatic,650.0,664.0,346700.0,0,0,0,1
+Bentley,Continental,2023,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,542.0,568.0,274400.0,0,0,0,1
+Bentley,Continental,2023,Midsize,Coupe,W12,Twin-Turbo,AWD,automatic,650.0,664.0,315200.0,0,0,0,1
+Bentley,Continental,2024,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,542.0,568.0,301300.0,0,0,0,1
+Bentley,Continental,2024,Midsize,Convertible,W12,Twin-Turbo,AWD,automatic,650.0,664.0,367200.0,0,0,0,1
+Bentley,Continental,2024,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,542.0,568.0,274000.0,0,0,1,0
+Bentley,Continental,2024,Midsize,Coupe,W12,Twin-Turbo,AWD,automatic,650.0,664.0,336000.0,0,0,0,1
+Bentley,Flying Spur,2023,Large,Sedan,V6,Twin-Turbo,AWD,automatic,536.0,553.0,244800.0,0,0,1,0
+Bentley,Flying Spur,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,542.0,568.0,245750.0,0,0,1,0
+Bentley,Flying Spur,2023,Large,Sedan,W12,Twin-Turbo,AWD,automatic,626.0,664.0,286950.0,0,0,0,1
+Bentley,Flying Spur,2024,Large,Sedan,V6,Twin-Turbo,AWD,automatic,536.0,553.0,247700.0,0,0,1,0
+Bentley,Flying Spur,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,542.0,568.0,248400.0,0,0,1,0
+Bentley,Flying Spur,2024,Large,Sedan,W12,Twin-Turbo,AWD,automatic,626.0,664.0,300200.0,0,0,0,1
+Ford,Bronco,2023,Compact,Convertible SUV,I4,Turbocharged,4WD,automatic,300.0,325.0,44450.0,1,0,0,0
+Ford,Bronco,2023,Compact,Convertible SUV,I4,Turbocharged,4WD,manual,300.0,325.0,39815.0,1,0,0,0
+Ford,Bronco,2023,Compact,Convertible SUV,V6,Twin-Turbo,4WD,automatic,330.0,415.0,60737.5,1,0,0,0
+Ford,Bronco,2023,Midsize,Convertible SUV,I4,Turbocharged,4WD,automatic,300.0,325.0,45745.0,1,0,0,0
+Ford,Bronco,2023,Midsize,Convertible SUV,I4,Turbocharged,4WD,manual,300.0,325.0,42637.5,1,0,0,0
+Ford,Bronco,2023,Midsize,Convertible SUV,V6,Twin-Turbo,4WD,automatic,330.0,415.0,62402.5,1,0,0,0
+Ford,Bronco,2023,Midsize,Convertible SUV,V6,Twin-Turbo,4WD,automatic,418.0,440.0,76580.0,1,0,0,0
+Ford,Bronco,2024,Compact,Convertible SUV,I4,Turbocharged,4WD,manual,300.0,325.0,45942.5,1,0,0,0
+Ford,Bronco,2024,Compact,Convertible SUV,V6,Twin-Turbo,4WD,automatic,330.0,415.0,64955.0,1,0,0,0
+Ford,Bronco,2024,Midsize,Convertible SUV,I4,Turbocharged,4WD,automatic,300.0,325.0,51730.0,1,0,0,0
+Ford,Bronco,2024,Midsize,Convertible SUV,I4,Turbocharged,4WD,manual,300.0,325.0,46772.5,1,0,0,0
+Ford,Bronco,2024,Midsize,Convertible SUV,V6,Twin-Turbo,4WD,automatic,330.0,415.0,65935.0,1,0,0,0
+Ford,Bronco,2024,Midsize,Convertible SUV,V6,Twin-Turbo,4WD,automatic,418.0,440.0,90035.0,1,0,0,0
+Ford,Bronco Sport,2023,Compact,SUV,I3,Turbocharged,AWD,automatic,181.0,190.0,31940.0,1,0,0,0
+Ford,Bronco Sport,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,250.0,277.0,40997.5,1,0,0,0
+Ford,Bronco Sport,2024,Compact,SUV,I3,Turbocharged,AWD,automatic,181.0,190.0,32380.0,1,0,0,0
+Ford,Bronco Sport,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,250.0,277.0,38390.0,1,0,0,0
+Ford,E-Transit Cargo Van,2023,Large,Cargo Van,V6,Electric Motor,RWD,automatic,266.0,317.0,56790.0,1,0,0,0
+Ford,E-Transit Cargo Van,2023,Midsize,Cargo Van,V6,Electric Motor,RWD,automatic,266.0,317.0,54395.0,1,0,0,0
+Ford,E-Transit Cargo Van,2024,Large,Cargo Van,V6,Electric Motor,RWD,automatic,266.0,317.0,57495.0,1,0,0,0
+Ford,E-Transit Cargo Van,2024,Midsize,Cargo Van,V6,Electric Motor,RWD,automatic,266.0,317.0,52835.0,1,0,0,0
+Ford,Edge,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,250.0,280.0,41222.5,1,0,0,0
+Ford,Edge,2023,Midsize,SUV,V6,Twin-Turbo,AWD,automatic,335.0,380.0,46485.0,1,0,0,0
+Ford,Edge,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,250.0,280.0,41592.5,1,0,0,0
+Ford,Edge,2024,Midsize,SUV,V6,Twin-Turbo,AWD,automatic,335.0,380.0,47205.0,1,0,0,0
+Ford,Escape,2023,Midsize,SUV,I3,Turbocharged,AWD,automatic,180.0,199.0,31515.0,1,0,0,0
+Ford,Escape,2023,Midsize,SUV,I3,Turbocharged,FWD,automatic,180.0,199.0,29345.0,1,0,0,0
+Ford,Escape,2023,Midsize,SUV,I4,Naturally Aspirated,AWD,automatic,192.0,155.0,36752.5,1,0,0,0
+Ford,Escape,2023,Midsize,SUV,I4,Naturally Aspirated,FWD,automatic,192.0,155.0,33340.0,1,0,0,0
+Ford,Escape,2023,Midsize,SUV,I4,Naturally Aspirated,FWD,automatic,210.0,155.0,40500.0,1,0,0,0
+Ford,Escape,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,250.0,280.0,37465.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I3,Turbocharged,AWD,automatic,180.0,199.0,31515.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I3,Turbocharged,FWD,automatic,180.0,199.0,29345.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Naturally Aspirated,AWD,automatic,192.0,155.0,35040.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Naturally Aspirated,AWD,automatic,192.0,156.32,38465.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Naturally Aspirated,AWD,automatic,192.0,166.38,39460.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Naturally Aspirated,FWD,automatic,192.0,155.0,33340.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Naturally Aspirated,FWD,automatic,192.0,155.66,36965.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Naturally Aspirated,FWD,automatic,210.0,199.96,40500.0,1,0,0,0
+Ford,Escape,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,250.0,280.0,37465.0,1,0,0,0
+Ford,Expedition,2023,Large,SUV,V6,Twin-Turbo,4WD,automatic,380.0,470.0,61205.0,1,0,0,0
+Ford,Expedition,2023,Large,SUV,V6,Twin-Turbo,4WD,automatic,400.0,480.0,82390.0,1,0,0,0
+Ford,Expedition,2023,Large,SUV,V6,Twin-Turbo,4WD,automatic,440.0,510.0,71400.0,1,0,0,0
+Ford,Expedition,2023,Large,SUV,V6,Twin-Turbo,RWD,automatic,380.0,470.0,58155.0,1,0,0,0
+Ford,Expedition,2023,Large,SUV,V6,Twin-Turbo,RWD,automatic,400.0,480.0,79340.0,1,0,0,0
+Ford,Expedition,2024,Large,SUV,V6,Twin-Turbo,4WD,automatic,380.0,470.0,62405.0,1,0,0,0
+Ford,Expedition,2024,Large,SUV,V6,Twin-Turbo,4WD,automatic,400.0,480.0,83430.0,1,0,0,0
+Ford,Expedition,2024,Large,SUV,V6,Twin-Turbo,4WD,automatic,440.0,510.0,72550.0,1,0,0,0
+Ford,Expedition,2024,Large,SUV,V6,Twin-Turbo,RWD,automatic,380.0,470.0,59105.0,1,0,0,0
+Ford,Expedition,2024,Large,SUV,V6,Twin-Turbo,RWD,automatic,400.0,480.0,80130.0,1,0,0,0
+Ford,Explorer,2023,Large,SUV,I4,Turbocharged,AWD,automatic,300.0,310.0,48005.0,1,0,0,0
+Ford,Explorer,2023,Large,SUV,I4,Turbocharged,RWD,automatic,300.0,310.0,42287.5,1,0,0,0
+Ford,Explorer,2023,Large,SUV,V6,Naturally Aspirated,AWD,automatic,318.0,322.0,55412.5,1,0,0,0
+Ford,Explorer,2023,Large,SUV,V6,Naturally Aspirated,RWD,automatic,318.0,322.0,53412.5,1,0,0,0
+Ford,Explorer,2023,Large,SUV,V6,Twin-Turbo,AWD,automatic,400.0,415.0,56075.0,1,0,0,0
+Ford,Explorer,2023,Large,SUV,V6,Twin-Turbo,RWD,automatic,400.0,415.0,54075.0,1,0,0,0
+Ford,Explorer,2024,Large,SUV,I4,Turbocharged,AWD,automatic,300.0,310.0,48455.0,1,0,0,0
+Ford,Explorer,2024,Large,SUV,I4,Turbocharged,RWD,automatic,300.0,310.0,42562.5,1,0,0,0
+Ford,Explorer,2024,Large,SUV,V6,Twin-Turbo,AWD,automatic,400.0,415.0,56625.0,1,0,0,0
+Ford,Explorer,2024,Large,SUV,V6,Twin-Turbo,RWD,automatic,400.0,415.0,54625.0,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V6,Naturally Aspirated,4WD,automatic,290.0,265.0,44702.5,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V6,Naturally Aspirated,RWD,automatic,290.0,265.0,40907.5,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V6,Twin-Turbo,4WD,automatic,325.0,400.0,61270.0,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V6,Twin-Turbo,4WD,automatic,430.0,570.0,84910.0,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V6,Twin-Turbo,4WD,automatic,450.0,510.0,76775.0,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V6,Twin-Turbo,RWD,automatic,325.0,400.0,46575.0,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,400.0,410.0,62052.5,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,400.0,410.0,64002.5,1,0,0,0
+Ford,F-150,2023,Large,Pickup Truck,V8,Supercharged,4WD,automatic,700.0,640.0,107350.0,0,1,0,0
+Ford,F-150,2024,Large,Pickup Truck,V6,Twin-Turbo,4WD,automatic,325.0,400.0,49800.0,1,0,0,0
+Ford,F-150,2024,Large,Pickup Truck,V6,Twin-Turbo,4WD,automatic,400.0,500.0,73997.5,1,0,0,0
+Ford,F-150,2024,Large,Pickup Truck,V6,Twin-Turbo,4WD,automatic,450.0,510.0,78440.0,1,0,0,0
+Ford,F-150,2024,Large,Pickup Truck,V6,Twin-Turbo,RWD,automatic,325.0,400.0,46000.0,1,0,0,0
+Ford,F-150,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,400.0,410.0,60190.0,1,0,0,0
+Ford,F-150,2024,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,400.0,410.0,36965.0,1,0,0,0
+Ford,F-150 Lightning,2023,Large,Pickup Truck,V8,Electric Motor,4WD,automatic,426.0,775.0,54995.0,1,0,0,0
+Ford,F-150 Lightning,2023,Large,Pickup Truck,V8,Electric Motor,4WD,automatic,563.0,775.0,91995.0,1,0,0,0
+Ford,F-150 Lightning,2024,Large,Pickup Truck,V6,Electric Motor,4WD,automatic,300.0,338.66,54995.0,1,0,0,0
+Ford,F-150 Lightning,2024,Large,Pickup Truck,V8,Electric Motor,4WD,automatic,300.0,337.98,62995.0,1,0,0,0
+Ford,F-150 Lightning,2024,Large,Pickup Truck,V8,Electric Motor,4WD,automatic,300.0,361.06,67995.0,1,0,0,0
+Ford,F-150 Lightning,2024,Large,Pickup Truck,V8,Electric Motor,4WD,automatic,300.0,367.12,84995.0,1,0,0,0
+Ford,F-150 Lightning,2024,Large,Pickup Truck,V8,Electric Motor,4WD,automatic,300.0,367.32,76995.0,1,0,0,0
+Ford,F-250 Super Duty,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,405.0,445.0,49305.0,1,0,0,0
+Ford,F-250 Super Duty,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,430.0,485.0,61610.0,1,0,0,0
+Ford,F-250 Super Duty,2023,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,405.0,445.0,46505.0,1,0,0,0
+Ford,F-250 Super Duty,2023,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,500.0,120.0,96195.0,1,0,0,0
+Ford,F-250 Super Duty,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,405.0,445.0,50305.0,1,0,0,0
+Ford,F-250 Super Duty,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,430.0,485.0,62610.0,1,0,0,0
+Ford,F-250 Super Duty,2024,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,405.0,445.0,47505.0,1,0,0,0
+Ford,F-250 Super Duty,2024,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,500.0,120.0,97195.0,1,0,0,0
+Ford,F-350 Super Duty,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,405.0,445.0,50982.5,1,0,0,0
+Ford,F-350 Super Duty,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,430.0,485.0,63402.5,1,0,0,0
+Ford,F-350 Super Duty,2023,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,405.0,445.0,48185.0,1,0,0,0
+Ford,F-350 Super Duty,2023,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,500.0,120.0,97470.0,1,0,0,0
+Ford,F-350 Super Duty,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,405.0,445.0,51982.5,1,0,0,0
+Ford,F-350 Super Duty,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,430.0,485.0,64402.5,1,0,0,0
+Ford,F-350 Super Duty,2024,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,405.0,445.0,48450.0,1,0,0,0
+Ford,F-350 Super Duty,2024,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,500.0,120.0,98470.0,1,0,0,0
+Ford,F-350 Super Duty,2024,Large,Pickup Truck,V8,Turbocharged,RWD,automatic,475.0,105.0,60767.5,1,0,0,0
+Ford,F-450 Super Duty,2023,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,475.0,105.0,69035.0,1,0,0,0
+Ford,F-450 Super Duty,2023,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,500.0,120.0,103030.0,0,1,0,0
+Ford,F-450 Super Duty,2023,Large,Pickup Truck,V8,Turbocharged,RWD,automatic,475.0,105.0,60955.0,1,0,0,0
+Ford,F-450 Super Duty,2024,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,475.0,105.0,70035.0,1,0,0,0
+Ford,F-450 Super Duty,2024,Large,Pickup Truck,V8,Turbocharged,4WD,automatic,500.0,120.0,104030.0,0,1,0,0
+Ford,F-450 Super Duty,2024,Large,Pickup Truck,V8,Turbocharged,RWD,automatic,475.0,105.0,61955.0,1,0,0,0
+Ford,Maverick,2023,Compact,Pickup Truck,I4,Naturally Aspirated,FWD,automatic,191.0,155.75,24855.0,1,0,0,0
+Ford,Maverick,2024,Compact,Pickup Truck,I4,Turbocharged,AWD,automatic,250.0,277.0,34960.0,1,0,0,0
+Ford,Maverick,2024,Compact,Pickup Truck,I4,Turbocharged,FWD,automatic,250.0,277.0,25170.0,1,0,0,0
+Ford,Mustang,2023,Midsize,Convertible,I4,Turbocharged,RWD,manual,310.0,350.0,35782.5,1,0,0,0
+Ford,Mustang,2023,Midsize,Convertible,V8,Naturally Aspirated,RWD,manual,460.0,420.0,48865.0,1,0,0,0
+Ford,Mustang,2023,Midsize,Coupe,I4,Turbocharged,RWD,manual,310.0,350.0,30282.5,1,0,0,0
+Ford,Mustang,2023,Midsize,Coupe,V8,Naturally Aspirated,RWD,manual,460.0,420.0,40855.0,1,0,0,0
+Ford,Mustang,2023,Midsize,Coupe,V8,Naturally Aspirated,RWD,manual,480.0,420.0,55570.0,1,0,0,0
+Ford,Mustang,2024,Midsize,Convertible,I4,Turbocharged,RWD,automatic,315.0,350.0,40482.5,1,0,0,0
+Ford,Mustang,2024,Midsize,Convertible,V8,Naturally Aspirated,RWD,manual,480.0,486.0,51980.0,1,0,0,0
+Ford,Mustang,2024,Midsize,Coupe,I4,Turbocharged,RWD,automatic,315.0,350.0,33682.5,1,0,0,0
+Ford,Mustang,2024,Midsize,Coupe,V8,Naturally Aspirated,RWD,manual,480.0,486.0,44220.0,1,0,0,0
+Ford,Mustang,2024,Midsize,Coupe,V8,Naturally Aspirated,RWD,manual,500.0,418.0,58185.0,1,0,0,0
+Ford,Mustang Mach-E,2023,Midsize,Hatchback,I4,Electric Motor,RWD,automatic,266.0,317.0,44995.0,1,0,0,0
+Ford,Mustang Mach-E,2023,Midsize,Hatchback,V6,Electric Motor,AWD,automatic,266.0,428.0,47995.0,1,0,0,0
+Ford,Mustang Mach-E,2023,Midsize,Hatchback,V6,Electric Motor,AWD,automatic,311.0,427.0,47995.0,1,0,0,0
+Ford,Mustang Mach-E,2023,Midsize,Hatchback,V6,Electric Motor,AWD,automatic,346.0,428.0,56995.0,1,0,0,0
+Ford,Mustang Mach-E,2023,Midsize,Hatchback,V8,Electric Motor,AWD,automatic,480.0,600.0,59995.0,1,0,0,0
+Ford,Mustang Mach-E,2024,Midsize,Hatchback,I4,Electric Motor,RWD,automatic,266.0,317.0,41995.0,1,0,0,0
+Ford,Mustang Mach-E,2024,Midsize,Hatchback,V6,Electric Motor,AWD,automatic,311.0,427.0,45245.0,1,0,0,0
+Ford,Mustang Mach-E,2024,Midsize,Hatchback,V8,Electric Motor,AWD,automatic,480.0,634.0,53995.0,1,0,0,0
+Ford,Ranger,2023,Compact,Pickup Truck,I4,Turbocharged,4WD,automatic,270.0,310.0,35925.0,1,0,0,0
+Ford,Ranger,2023,Compact,Pickup Truck,I4,Turbocharged,RWD,automatic,270.0,310.0,32440.0,1,0,0,0
+Ford,Ranger,2024,Compact,Pickup Truck,I4,Turbocharged,4WD,automatic,270.0,310.0,39595.0,1,0,0,0
+Ford,Ranger,2024,Compact,Pickup Truck,I4,Turbocharged,RWD,automatic,270.0,310.0,36110.0,1,0,0,0
+Ford,Ranger,2024,Compact,Pickup Truck,V6,Twin-Turbo,4WD,automatic,405.0,430.0,55470.0,1,0,0,0
+Ford,Transit Cargo Van,2023,Large,Cargo Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,50802.5,1,0,0,0
+Ford,Transit Cargo Van,2023,Large,Cargo Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,46255.0,1,0,0,0
+Ford,Transit Cargo Van,2023,Large,Cargo Van,V6,Twin-Turbo,AWD,automatic,310.0,400.0,57637.5,1,0,0,0
+Ford,Transit Cargo Van,2023,Large,Cargo Van,V6,Twin-Turbo,RWD,automatic,310.0,400.0,52575.0,1,0,0,0
+Ford,Transit Cargo Van,2023,Midsize,Cargo Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,47600.0,1,0,0,0
+Ford,Transit Cargo Van,2023,Midsize,Cargo Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,42905.0,1,0,0,0
+Ford,Transit Cargo Van,2024,Large,Cargo Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,55625.0,1,0,0,0
+Ford,Transit Cargo Van,2024,Large,Cargo Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,51435.0,1,0,0,0
+Ford,Transit Cargo Van,2024,Large,Cargo Van,V6,Twin-Turbo,AWD,automatic,310.0,400.0,61690.0,1,0,0,0
+Ford,Transit Cargo Van,2024,Large,Cargo Van,V6,Twin-Turbo,RWD,automatic,310.0,400.0,56605.0,1,0,0,0
+Ford,Transit Cargo Van,2024,Midsize,Cargo Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,52035.0,1,0,0,0
+Ford,Transit Cargo Van,2024,Midsize,Cargo Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,47835.0,1,0,0,0
+Ford,Transit Connect Cargo Van,2023,Compact,Cargo Minivan,I4,Naturally Aspirated,FWD,automatic,162.0,144.0,33877.5,1,0,0,0
+Ford,Transit Connect Cargo Van,2023,Large,Cargo Minivan,I4,Naturally Aspirated,FWD,automatic,162.0,144.0,34877.5,1,0,0,0
+Ford,Transit Connect Passenger Wagon,2023,Compact,Passenger Minivan,I4,Naturally Aspirated,FWD,automatic,162.0,144.0,36475.0,1,0,0,0
+Ford,Transit Crew Van,2023,Large,Passenger Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,52052.5,1,0,0,0
+Ford,Transit Crew Van,2023,Large,Passenger Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,47370.0,1,0,0,0
+Ford,Transit Crew Van,2023,Large,Passenger Van,V6,Twin-Turbo,AWD,automatic,310.0,400.0,59085.0,1,0,0,0
+Ford,Transit Crew Van,2023,Midsize,Passenger Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,49965.0,1,0,0,0
+Ford,Transit Crew Van,2023,Midsize,Passenger Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,45265.0,1,0,0,0
+Ford,Transit Passenger Van,2023,Large,Passenger Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,56427.5,1,0,0,0
+Ford,Transit Passenger Van,2023,Large,Passenger Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,52267.5,1,0,0,0
+Ford,Transit Passenger Van,2023,Large,Passenger Van,V6,Twin-Turbo,AWD,automatic,310.0,400.0,60152.5,1,0,0,0
+Ford,Transit Passenger Van,2023,Midsize,Passenger Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,54580.0,1,0,0,0
+Ford,Transit Passenger Van,2023,Midsize,Passenger Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,49885.0,1,0,0,0
+Ford,Transit Passenger Van,2024,Large,Passenger Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,59932.5,1,0,0,0
+Ford,Transit Passenger Van,2024,Large,Passenger Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,56260.0,1,0,0,0
+Ford,Transit Passenger Van,2024,Large,Passenger Van,V6,Twin-Turbo,AWD,automatic,310.0,400.0,63295.0,1,0,0,0
+Ford,Transit Passenger Van,2024,Midsize,Passenger Van,V6,Naturally Aspirated,AWD,automatic,275.0,260.0,59580.0,1,0,0,0
+Ford,Transit Passenger Van,2024,Midsize,Passenger Van,V6,Naturally Aspirated,RWD,automatic,275.0,260.0,53620.0,1,0,0,0
+Mercedes-Benz,AMG GT,2023,Large,Sedan,I6,Turbocharged,AWD,automatic,362.0,369.0,95900.0,1,0,0,0
+Mercedes-Benz,AMG GT,2023,Large,Sedan,I6,Twincharged,AWD,automatic,429.0,384.0,106700.0,0,1,0,0
+Mercedes-Benz,AMG GT,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,577.0,590.0,149200.0,0,1,0,0
+Mercedes-Benz,AMG GT,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,630.0,664.0,170350.0,0,1,0,0
+Mercedes-Benz,AMG GT,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,362.0,369.0,98950.0,1,0,0,0
+Mercedes-Benz,AMG GT,2024,Large,Sedan,I6,Twincharged,AWD,automatic,429.0,384.0,109450.0,0,1,0,0
+Mercedes-Benz,AMG GT,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,577.0,590.0,153350.0,0,1,0,0
+Mercedes-Benz,AMG GT,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,831.0,103.0,194900.0,0,0,1,0
+Mercedes-Benz,AMG GT,2024,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,469.0,516.0,134900.0,0,1,0,0
+Mercedes-Benz,AMG GT,2024,Midsize,Coupe,V8,Twin-Turbo,AWD,automatic,577.0,590.0,175900.0,0,1,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Convertible,I4,Turbocharged,AWD,automatic,255.0,273.0,59250.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Convertible,I4,Turbocharged,RWD,automatic,255.0,273.0,57250.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Convertible,V6,Twin-Turbo,AWD,automatic,385.0,384.0,69250.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Convertible,V8,Twin-Turbo,RWD,automatic,503.0,516.0,90000.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Coupe,I4,Turbocharged,AWD,automatic,255.0,273.0,51550.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Coupe,I4,Turbocharged,RWD,automatic,255.0,273.0,49550.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,385.0,384.0,62600.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Coupe,V8,Twin-Turbo,RWD,automatic,503.0,516.0,81850.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,46850.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,402.0,369.0,59900.0,1,0,0,0
+Mercedes-Benz,C-Class,2023,Midsize,Sedan,I4,Turbocharged,RWD,automatic,255.0,295.0,44850.0,1,0,0,0
+Mercedes-Benz,C-Class,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,48950.0,1,0,0,0
+Mercedes-Benz,C-Class,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,402.0,369.0,60700.0,1,0,0,0
+Mercedes-Benz,C-Class,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,671.0,752.0,83900.0,1,0,0,0
+Mercedes-Benz,C-Class,2024,Midsize,Sedan,I4,Turbocharged,RWD,automatic,255.0,295.0,46950.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,221.0,258.0,41350.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,302.0,295.0,49500.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2023,Midsize,Sedan,I4,Turbocharged,AWD,automatic,382.0,354.0,57800.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2023,Midsize,Sedan,I4,Turbocharged,FWD,automatic,221.0,258.0,39350.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,221.0,258.0,45200.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,302.0,295.0,54950.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2024,Midsize,Sedan,I4,Turbocharged,AWD,automatic,416.0,369.0,65400.0,1,0,0,0
+Mercedes-Benz,CLA-Class,2024,Midsize,Sedan,I4,Turbocharged,FWD,automatic,221.0,258.0,43200.0,1,0,0,0
+Mercedes-Benz,CLE,2024,Midsize,Convertible,I4,Turbocharged,AWD,automatic,255.0,295.0,64350.0,1,0,0,0
+Mercedes-Benz,CLE,2024,Midsize,Convertible,I6,Turbocharged,AWD,automatic,375.0,369.0,73850.0,1,0,0,0
+Mercedes-Benz,CLE,2024,Midsize,Coupe,I4,Turbocharged,AWD,automatic,255.0,295.0,56500.0,1,0,0,0
+Mercedes-Benz,CLE,2024,Midsize,Coupe,I6,Turbocharged,AWD,automatic,375.0,369.0,65650.0,1,0,0,0
+Mercedes-Benz,CLE,2024,Midsize,Coupe,I6,Twincharged,AWD,automatic,443.0,413.0,72800.0,1,0,0,0
+Mercedes-Benz,CLS-Class,2023,Large,Sedan,I6,Turbocharged,AWD,automatic,362.0,369.0,76500.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Large,Sedan,I4,Turbocharged,AWD,automatic,255.0,273.0,59250.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Large,Sedan,I4,Turbocharged,RWD,automatic,255.0,273.0,56750.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Large,Sedan,I6,Turbocharged,AWD,automatic,362.0,369.0,65550.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Large,Sedan,I6,Twincharged,AWD,automatic,429.0,384.0,81300.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,603.0,627.0,112800.0,0,1,0,0
+Mercedes-Benz,E-Class,2023,Large,Wagon,I6,Turbocharged,AWD,automatic,362.0,369.0,71250.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Large,Wagon,V8,Twin-Turbo,AWD,automatic,603.0,627.0,121100.0,0,1,0,0
+Mercedes-Benz,E-Class,2023,Midsize,Convertible,I6,Turbocharged,AWD,automatic,362.0,369.0,79550.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Midsize,Convertible,I6,Turbocharged,RWD,automatic,362.0,369.0,76900.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Midsize,Convertible,I6,Twincharged,AWD,automatic,429.0,384.0,91500.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Midsize,Coupe,I6,Turbocharged,AWD,automatic,362.0,369.0,72250.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Midsize,Coupe,I6,Turbocharged,RWD,automatic,362.0,369.0,69750.0,1,0,0,0
+Mercedes-Benz,E-Class,2023,Midsize,Coupe,I6,Twincharged,AWD,automatic,429.0,384.0,84500.0,1,0,0,0
+Mercedes-Benz,E-Class,2024,Large,Sedan,I4,Turbocharged,AWD,automatic,255.0,295.0,62300.0,1,0,0,0
+Mercedes-Benz,E-Class,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,375.0,369.0,68100.0,1,0,0,0
+Mercedes-Benz,E-Class,2024,Large,Wagon,I6,Turbocharged,AWD,automatic,375.0,369.0,74700.0,1,0,0,0
+Mercedes-Benz,EQB,2023,Midsize,SUV,I4,Electric Motor,AWD,automatic,225.0,288.0,56900.0,1,0,0,0
+Mercedes-Benz,EQB,2023,Midsize,SUV,I4,Electric Motor,FWD,automatic,188.0,284.0,52750.0,1,0,0,0
+Mercedes-Benz,EQB,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,288.0,384.0,60550.0,1,0,0,0
+Mercedes-Benz,EQB,2024,Midsize,SUV,I4,Electric Motor,AWD,automatic,225.0,288.0,56900.0,1,0,0,0
+Mercedes-Benz,EQB,2024,Midsize,SUV,I4,Electric Motor,FWD,automatic,188.0,284.0,52750.0,1,0,0,0
+Mercedes-Benz,EQB,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,288.0,384.0,60550.0,1,0,0,0
+Mercedes-Benz,EQE,2023,Large,Sedan,I6,Electric Motor,AWD,automatic,288.0,564.0,77900.0,1,0,0,0
+Mercedes-Benz,EQE,2023,Large,Sedan,I6,Electric Motor,AWD,automatic,402.0,633.0,85900.0,1,0,0,0
+Mercedes-Benz,EQE,2023,Large,Sedan,V6,Electric Motor,RWD,automatic,288.0,417.0,74900.0,1,0,0,0
+Mercedes-Benz,EQE,2023,Large,Sedan,V8,Electric Motor,AWD,automatic,617.0,701.0,106900.0,0,1,0,0
+Mercedes-Benz,EQE,2024,Large,Sedan,I6,Electric Motor,AWD,automatic,288.0,417.0,77900.0,1,0,0,0
+Mercedes-Benz,EQE,2024,Large,Sedan,I6,Electric Motor,AWD,automatic,402.0,633.0,85900.0,1,0,0,0
+Mercedes-Benz,EQE,2024,Large,Sedan,I6,Electric Motor,RWD,automatic,288.0,564.0,74900.0,1,0,0,0
+Mercedes-Benz,EQE,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,617.0,701.0,106900.0,0,1,0,0
+Mercedes-Benz,EQE SUV,2023,Large,SUV,V6,Electric Motor,AWD,automatic,288.0,564.0,77900.0,1,0,0,0
+Mercedes-Benz,EQE SUV,2023,Large,SUV,V6,Electric Motor,RWD,automatic,288.0,417.0,77900.0,1,0,0,0
+Mercedes-Benz,EQE SUV,2023,Large,SUV,V8,Electric Motor,AWD,automatic,402.0,633.0,89500.0,1,0,0,0
+Mercedes-Benz,EQE SUV,2024,Large,SUV,I6,Electric Motor,AWD,automatic,288.0,564.0,77900.0,1,0,0,0
+Mercedes-Benz,EQE SUV,2024,Large,SUV,V6,Electric Motor,RWD,automatic,288.0,417.0,77900.0,1,0,0,0
+Mercedes-Benz,EQE SUV,2024,Large,SUV,V8,Electric Motor,AWD,automatic,402.0,633.0,89500.0,1,0,0,0
+Mercedes-Benz,EQE SUV,2024,Large,SUV,V8,Electric Motor,AWD,automatic,617.0,701.0,109300.0,0,1,0,0
+Mercedes-Benz,EQS,2023,Large,Sedan,I6,Electric Motor,AWD,automatic,355.0,590.0,107400.0,0,1,0,0
+Mercedes-Benz,EQS,2023,Large,Sedan,I6,Electric Motor,RWD,automatic,329.0,417.0,104400.0,0,1,0,0
+Mercedes-Benz,EQS,2023,Large,Sedan,V8,Electric Motor,AWD,automatic,516.0,631.0,125950.0,0,1,0,0
+Mercedes-Benz,EQS,2023,Large,Sedan,V8,Electric Motor,AWD,automatic,649.0,700.0,147550.0,0,1,0,0
+Mercedes-Benz,EQS,2024,Large,Sedan,I6,Electric Motor,AWD,automatic,355.0,590.0,107400.0,0,1,0,0
+Mercedes-Benz,EQS,2024,Large,Sedan,I6,Electric Motor,RWD,automatic,355.0,590.0,104400.0,0,1,0,0
+Mercedes-Benz,EQS,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,536.0,633.0,127350.0,0,1,0,0
+Mercedes-Benz,EQS,2024,Large,Sedan,V8,Electric Motor,AWD,automatic,649.0,700.0,147550.0,0,1,0,0
+Mercedes-Benz,EQS SUV,2023,Large,SUV,I6,Electric Motor,RWD,automatic,355.0,419.0,104400.0,0,1,0,0
+Mercedes-Benz,EQS SUV,2023,Large,SUV,V8,Electric Motor,AWD,automatic,355.0,590.0,107400.0,0,1,0,0
+Mercedes-Benz,EQS SUV,2023,Large,SUV,V8,Electric Motor,AWD,automatic,536.0,633.0,125950.0,0,1,0,0
+Mercedes-Benz,EQS SUV,2024,Large,SUV,I6,Electric Motor,RWD,automatic,355.0,419.0,104400.0,0,1,0,0
+Mercedes-Benz,EQS SUV,2024,Large,SUV,V8,Electric Motor,AWD,automatic,355.0,590.0,107400.0,0,1,0,0
+Mercedes-Benz,EQS SUV,2024,Large,SUV,V8,Electric Motor,AWD,automatic,536.0,633.0,127350.0,0,1,0,0
+Mercedes-Benz,G-Class,2023,Midsize,SUV,V8,Twin-Turbo,4WD,automatic,416.0,450.0,139900.0,0,1,0,0
+Mercedes-Benz,G-Class,2023,Midsize,SUV,V8,Twin-Turbo,4WD,automatic,577.0,627.0,264000.0,0,0,1,0
+Mercedes-Benz,G-Class,2024,Midsize,SUV,V8,Twin-Turbo,4WD,automatic,416.0,450.0,143000.0,0,1,0,0
+Mercedes-Benz,G-Class,2024,Midsize,SUV,V8,Twin-Turbo,4WD,automatic,577.0,627.0,270000.0,0,0,1,0
+Mercedes-Benz,GLA-Class,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,221.0,258.0,39500.0,1,0,0,0
+Mercedes-Benz,GLA-Class,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,302.0,295.0,49500.0,1,0,0,0
+Mercedes-Benz,GLA-Class,2023,Compact,SUV,I4,Turbocharged,AWD,automatic,382.0,354.0,56650.0,1,0,0,0
+Mercedes-Benz,GLA-Class,2023,Compact,SUV,I4,Turbocharged,FWD,automatic,221.0,258.0,37500.0,1,0,0,0
+Mercedes-Benz,GLA-Class,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,221.0,258.0,43850.0,1,0,0,0
+Mercedes-Benz,GLA-Class,2024,Compact,SUV,I4,Turbocharged,AWD,automatic,302.0,295.0,56450.0,1,0,0,0
+Mercedes-Benz,GLA-Class,2024,Compact,SUV,I4,Turbocharged,FWD,automatic,221.0,258.0,41850.0,1,0,0,0
+Mercedes-Benz,GLB-Class,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,221.0,258.0,41800.0,1,0,0,0
+Mercedes-Benz,GLB-Class,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,302.0,295.0,51500.0,1,0,0,0
+Mercedes-Benz,GLB-Class,2023,Midsize,SUV,I4,Turbocharged,FWD,automatic,221.0,258.0,39800.0,1,0,0,0
+Mercedes-Benz,GLB-Class,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,221.0,258.0,46450.0,1,0,0,0
+Mercedes-Benz,GLB-Class,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,302.0,295.0,59050.0,1,0,0,0
+Mercedes-Benz,GLB-Class,2024,Midsize,SUV,I4,Turbocharged,FWD,automatic,221.0,258.0,44450.0,1,0,0,0
+Mercedes-Benz,GLC-Class,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,255.0,295.0,49100.0,1,0,0,0
+Mercedes-Benz,GLC-Class,2023,Midsize,SUV,I4,Turbocharged,RWD,automatic,255.0,295.0,47100.0,1,0,0,0
+Mercedes-Benz,GLC-Class,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,255.0,295.0,49450.0,1,0,0,0
+Mercedes-Benz,GLC-Class,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,416.0,369.0,64950.0,1,0,0,0
+Mercedes-Benz,GLC-Class,2024,Midsize,SUV,I4,Turbocharged,RWD,automatic,255.0,295.0,47450.0,1,0,0,0
+Mercedes-Benz,GLC-Class Coupe,2023,Midsize,SUV,I4,Turbocharged,AWD,automatic,255.0,273.0,54700.0,1,0,0,0
+Mercedes-Benz,GLC-Class Coupe,2023,Midsize,SUV,V6,Twin-Turbo,AWD,automatic,385.0,384.0,68200.0,1,0,0,0
+Mercedes-Benz,GLC-Class Coupe,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,255.0,295.0,57000.0,1,0,0,0
+Mercedes-Benz,GLC-Class Coupe,2024,Midsize,SUV,I4,Turbocharged,AWD,automatic,416.0,369.0,70600.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2023,Large,SUV,I4,Turbocharged,AWD,automatic,255.0,273.0,60200.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2023,Large,SUV,I4,Turbocharged,RWD,automatic,255.0,273.0,57700.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2023,Large,SUV,I6,Turbocharged,AWD,automatic,362.0,369.0,66450.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2023,Large,SUV,I6,Twincharged,AWD,automatic,429.0,384.0,76950.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,483.0,516.0,83850.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,603.0,627.0,120000.0,0,1,0,0
+Mercedes-Benz,GLE-Class,2024,Large,SUV,I4,Turbocharged,AWD,automatic,255.0,295.0,62650.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2024,Large,SUV,I4,Turbocharged,AWD,automatic,381.0,479.0,69500.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2024,Large,SUV,I6,Turbocharged,AWD,automatic,375.0,369.0,69500.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2024,Large,SUV,I6,Twincharged,AWD,automatic,429.0,384.0,86750.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,510.0,538.0,86700.0,1,0,0,0
+Mercedes-Benz,GLE-Class,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,603.0,627.0,127700.0,0,1,0,0
+Mercedes-Benz,GLE-Class Coupe,2023,Large,SUV,I6,Twincharged,AWD,automatic,429.0,384.0,81200.0,1,0,0,0
+Mercedes-Benz,GLE-Class Coupe,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,603.0,627.0,120700.0,0,1,0,0
+Mercedes-Benz,GLE-Class Coupe,2024,Large,SUV,I6,Twincharged,AWD,automatic,429.0,384.0,89800.0,1,0,0,0
+Mercedes-Benz,GLE-Class Coupe,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,603.0,627.0,129050.0,0,1,0,0
+Mercedes-Benz,GLS-Class,2023,Large,SUV,I6,Turbocharged,AWD,automatic,362.0,369.0,81800.0,1,0,0,0
+Mercedes-Benz,GLS-Class,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,483.0,516.0,105000.0,0,1,0,0
+Mercedes-Benz,GLS-Class,2023,Large,SUV,V8,Twincharged,AWD,automatic,603.0,627.0,139000.0,0,1,0,0
+Mercedes-Benz,GLS-Class,2024,Large,SUV,I6,Turbocharged,AWD,automatic,375.0,369.0,87000.0,1,0,0,0
+Mercedes-Benz,GLS-Class,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,510.0,538.0,112000.0,0,1,0,0
+Mercedes-Benz,GLS-Class,2024,Large,SUV,V8,Twincharged,AWD,automatic,603.0,627.0,145850.0,0,1,0,0
+Mercedes-Benz,Maybach,2023,Large,Sedan,V12,Twin-Turbo,AWD,automatic,621.0,664.0,229000.0,0,0,1,0
+Mercedes-Benz,Maybach,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,496.0,516.0,193400.0,0,0,1,0
+Mercedes-Benz,Maybach,2024,Large,Sedan,V12,Twin-Turbo,AWD,automatic,621.0,664.0,234300.0,0,0,1,0
+Mercedes-Benz,Maybach,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,496.0,516.0,198300.0,0,0,1,0
+Mercedes-Benz,Maybach EQS SUV,2024,Large,SUV,V8,Electric Motor,AWD,automatic,649.0,700.0,179900.0,0,0,1,0
+Mercedes-Benz,Maybach GLS,2023,Large,SUV,V8,Twin-Turbo,AWD,automatic,550.0,538.0,170000.0,0,1,0,0
+Mercedes-Benz,Maybach GLS,2024,Large,SUV,V8,Twin-Turbo,AWD,automatic,550.0,538.0,174350.0,0,1,0,0
+Mercedes-Benz,Metris,2023,Large,Cargo Minivan,I4,Turbocharged,RWD,automatic,208.0,258.0,39900.0,1,0,0,0
+Mercedes-Benz,Metris,2023,Large,Passenger Minivan,I4,Turbocharged,RWD,automatic,208.0,258.0,43600.0,1,0,0,0
+Mercedes-Benz,S-Class,2023,Large,Sedan,I6,Turbocharged,AWD,automatic,510.0,553.0,120500.0,0,1,0,0
+Mercedes-Benz,S-Class,2023,Large,Sedan,I6,Twincharged,AWD,automatic,429.0,384.0,114500.0,0,1,0,0
+Mercedes-Benz,S-Class,2023,Large,Sedan,V8,Twin-Turbo,AWD,automatic,496.0,516.0,124000.0,0,1,0,0
+Mercedes-Benz,S-Class,2024,Large,Sedan,I6,Turbocharged,AWD,automatic,510.0,553.0,127750.0,0,1,0,0
+Mercedes-Benz,S-Class,2024,Large,Sedan,I6,Twincharged,AWD,automatic,442.0,413.0,117300.0,0,1,0,0
+Mercedes-Benz,S-Class,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,496.0,516.0,128150.0,0,1,0,0
+Mercedes-Benz,S-Class,2024,Large,Sedan,V8,Twin-Turbo,AWD,automatic,791.0,105.0,182250.0,0,0,1,0
+Mercedes-Benz,SL-Class,2023,Midsize,Convertible,I4,Turbocharged,RWD,automatic,375.0,354.0,109900.0,0,1,0,0
+Mercedes-Benz,SL-Class,2023,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,469.0,516.0,141300.0,0,1,0,0
+Mercedes-Benz,SL-Class,2023,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,577.0,590.0,183000.0,0,0,1,0
+Mercedes-Benz,SL-Class,2024,Midsize,Convertible,I4,Turbocharged,RWD,automatic,375.0,354.0,109900.0,0,1,0,0
+Mercedes-Benz,SL-Class,2024,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,469.0,516.0,141300.0,0,1,0,0
+Mercedes-Benz,SL-Class,2024,Midsize,Convertible,V8,Twin-Turbo,AWD,automatic,577.0,590.0,183000.0,0,0,1,0
+Mercedes-Benz,Sprinter,2023,Compact,Passenger Van,I4,Turbocharged,AWD,automatic,211.0,332.0,61660.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Compact,Passenger Van,I4,Turbocharged,RWD,automatic,170.0,295.0,57060.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Compact,Passenger Van,I4,Turbocharged,RWD,automatic,188.0,258.0,49405.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Compact,Passenger Van,I4,Turbocharged,RWD,automatic,211.0,332.0,59710.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Cargo Van,I4,Turbocharged,AWD,automatic,211.0,332.0,64590.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Cargo Van,I4,Turbocharged,RWD,automatic,170.0,295.0,57165.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Cargo Van,I4,Turbocharged,RWD,automatic,188.0,258.0,44500.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Cargo Van,I4,Turbocharged,RWD,automatic,211.0,332.0,59815.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Passenger Van,I4,Turbocharged,AWD,automatic,211.0,332.0,67900.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Passenger Van,I4,Turbocharged,RWD,automatic,170.0,295.0,60225.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Passenger Van,I4,Turbocharged,RWD,automatic,188.0,258.0,53600.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Large,Passenger Van,I4,Turbocharged,RWD,automatic,211.0,332.0,62875.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Cargo Van,I4,Turbocharged,AWD,automatic,211.0,332.0,61550.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Cargo Van,I4,Turbocharged,RWD,automatic,170.0,295.0,53770.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Cargo Van,I4,Turbocharged,RWD,automatic,211.0,332.0,56420.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Passenger Van,I4,Turbocharged,AWD,automatic,211.0,332.0,61000.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Passenger Van,I4,Turbocharged,RWD,automatic,170.0,295.0,53395.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Passenger Van,I4,Turbocharged,RWD,automatic,188.0,258.0,46700.0,1,0,0,0
+Mercedes-Benz,Sprinter,2023,Midsize,Passenger Van,I4,Turbocharged,RWD,automatic,211.0,332.0,56045.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Compact,Passenger Van,I4,Turbocharged,AWD,automatic,211.0,332.0,65300.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Compact,Passenger Van,I4,Turbocharged,RWD,automatic,170.0,295.0,60500.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Compact,Passenger Van,I4,Turbocharged,RWD,automatic,211.0,332.0,63300.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Large,Cargo Van,I4,Turbocharged,AWD,automatic,211.0,332.0,68400.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Large,Cargo Van,I4,Turbocharged,RWD,automatic,170.0,295.0,57700.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Large,Cargo Van,I4,Turbocharged,RWD,automatic,211.0,332.0,63400.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Large,Passenger Van,I4,Turbocharged,AWD,automatic,211.0,332.0,68920.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Large,Passenger Van,I4,Turbocharged,RWD,automatic,170.0,295.0,59420.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Large,Passenger Van,I4,Turbocharged,RWD,automatic,211.0,332.0,62220.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Midsize,Cargo Van,I4,Turbocharged,AWD,automatic,211.0,332.0,65200.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Midsize,Cargo Van,I4,Turbocharged,RWD,automatic,211.0,332.0,59750.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Midsize,Passenger Van,I4,Turbocharged,AWD,automatic,211.0,332.0,61620.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Midsize,Passenger Van,I4,Turbocharged,RWD,automatic,170.0,295.0,52120.0,1,0,0,0
+Mercedes-Benz,Sprinter,2024,Midsize,Passenger Van,I4,Turbocharged,RWD,automatic,211.0,332.0,54920.0,1,0,0,0
+Mercedes-Benz,eSprinter,2024,Large,Cargo Van,I4,Electric Motor,RWD,automatic,134.0,295.0,71886.0,1,0,0,0
+Mercedes-Benz,eSprinter,2024,Large,Cargo Van,I4,Electric Motor,RWD,automatic,201.0,295.0,75316.0,1,0,0,0
+Nissan,ARIYA,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,413.0,47190.0,1,0,0,0
+Nissan,ARIYA,2023,Midsize,SUV,V6,Electric Motor,AWD,automatic,389.0,442.0,57190.0,1,0,0,0
+Nissan,ARIYA,2023,Midsize,SUV,V6,Electric Motor,FWD,automatic,214.0,221.0,43190.0,1,0,0,0
+Nissan,ARIYA,2023,Midsize,SUV,V6,Electric Motor,FWD,automatic,238.0,221.0,51940.0,1,0,0,0
+Nissan,ARIYA,2024,Midsize,SUV,I4,Electric Motor,FWD,automatic,214.0,221.0,39590.0,1,0,0,0
+Nissan,ARIYA,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,335.0,413.0,43590.0,1,0,0,0
+Nissan,ARIYA,2024,Midsize,SUV,V6,Electric Motor,AWD,automatic,389.0,442.0,51190.0,1,0,0,0
+Nissan,ARIYA,2024,Midsize,SUV,V6,Electric Motor,FWD,automatic,214.0,221.0,41190.0,1,0,0,0
+Nissan,ARIYA,2024,Midsize,SUV,V6,Electric Motor,FWD,automatic,238.0,221.0,45940.0,1,0,0,0
+Nissan,Altima,2023,Midsize,Sedan,I4,Naturally Aspirated,AWD,automatic,182.0,178.0,29330.0,1,0,0,0
+Nissan,Altima,2023,Midsize,Sedan,I4,Naturally Aspirated,FWD,automatic,188.0,180.0,27130.0,1,0,0,0
+Nissan,Altima,2023,Midsize,Sedan,I4,Turbocharged,FWD,automatic,248.0,273.0,35330.0,1,0,0,0
+Nissan,Altima,2024,Midsize,Sedan,I4,Naturally Aspirated,AWD,automatic,182.0,178.0,29700.0,1,0,0,0
+Nissan,Altima,2024,Midsize,Sedan,I4,Naturally Aspirated,FWD,automatic,188.0,180.0,27500.0,1,0,0,0
+Nissan,Altima,2024,Midsize,Sedan,I4,Turbocharged,FWD,automatic,248.0,273.0,35700.0,1,0,0,0
+Nissan,Armada,2023,Large,SUV,V8,Naturally Aspirated,4WD,automatic,400.0,413.0,60210.0,1,0,0,0
+Nissan,Armada,2023,Large,SUV,V8,Naturally Aspirated,RWD,automatic,400.0,413.0,57210.0,1,0,0,0
+Nissan,Armada,2024,Large,SUV,V8,Naturally Aspirated,4WD,automatic,400.0,413.0,62540.0,1,0,0,0
+Nissan,Armada,2024,Large,SUV,V8,Naturally Aspirated,RWD,automatic,400.0,413.0,59540.0,1,0,0,0
+Nissan,Frontier,2023,Compact,Pickup Truck,V6,Naturally Aspirated,4WD,automatic,310.0,281.0,35880.0,1,0,0,0
+Nissan,Frontier,2023,Compact,Pickup Truck,V6,Naturally Aspirated,RWD,automatic,310.0,281.0,32780.0,1,0,0,0
+Nissan,Frontier,2024,Compact,Pickup Truck,V6,Naturally Aspirated,4WD,automatic,310.0,281.0,37130.0,1,0,0,0
+Nissan,Frontier,2024,Compact,Pickup Truck,V6,Naturally Aspirated,RWD,automatic,310.0,281.0,34130.0,1,0,0,0
+Nissan,GT-R,2023,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,565.0,467.0,116040.0,0,1,0,0
+Nissan,GT-R,2023,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,600.0,481.0,215740.0,0,0,1,0
+Nissan,GT-R,2024,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,565.0,467.0,131090.0,0,1,0,0
+Nissan,GT-R,2024,Midsize,Coupe,V6,Twin-Turbo,AWD,automatic,600.0,481.0,221090.0,0,0,1,0
+Nissan,Kicks,2023,Compact,Hatchback,I4,Naturally Aspirated,FWD,automatic,122.0,114.0,22450.0,1,0,0,0
+Nissan,Kicks,2024,Compact,Hatchback,I4,Naturally Aspirated,FWD,automatic,122.0,114.0,22910.0,1,0,0,0
+Nissan,LEAF,2023,Compact,Hatchback,I4,Electric Motor,FWD,automatic,147.0,236.0,28040.0,1,0,0,0
+Nissan,LEAF,2023,Compact,Hatchback,I4,Electric Motor,FWD,automatic,214.0,250.0,36040.0,1,0,0,0
+Nissan,LEAF,2024,Compact,Hatchback,I4,Electric Motor,FWD,automatic,147.0,236.0,28140.0,1,0,0,0
+Nissan,LEAF,2024,Compact,Hatchback,I4,Electric Motor,FWD,automatic,214.0,250.0,36190.0,1,0,0,0
+Nissan,Maxima,2023,Midsize,Sedan,V6,Naturally Aspirated,FWD,automatic,300.0,261.0,43500.0,1,0,0,0
+Nissan,Murano,2023,Midsize,SUV,V6,Naturally Aspirated,AWD,automatic,260.0,240.0,41380.0,1,0,0,0
+Nissan,Murano,2023,Midsize,SUV,V6,Naturally Aspirated,FWD,automatic,260.0,240.0,39680.0,1,0,0,0
+Nissan,Murano,2024,Midsize,SUV,V6,Naturally Aspirated,AWD,automatic,260.0,240.0,43850.0,1,0,0,0
+Nissan,Murano,2024,Midsize,SUV,V6,Naturally Aspirated,FWD,automatic,260.0,240.0,42150.0,1,0,0,0
+Nissan,Pathfinder,2023,Large,SUV,V6,Naturally Aspirated,4WD,automatic,284.0,259.0,41840.0,1,0,0,0
+Nissan,Pathfinder,2023,Large,SUV,V6,Naturally Aspirated,4WD,automatic,295.0,270.0,43140.0,1,0,0,0
+Nissan,Pathfinder,2023,Large,SUV,V6,Naturally Aspirated,FWD,automatic,284.0,259.0,39940.0,1,0,0,0
+Nissan,Pathfinder,2024,Large,SUV,V6,Naturally Aspirated,4WD,automatic,284.0,259.0,42600.0,1,0,0,0
+Nissan,Pathfinder,2024,Large,SUV,V6,Naturally Aspirated,4WD,automatic,295.0,270.0,43900.0,1,0,0,0
+Nissan,Pathfinder,2024,Large,SUV,V6,Naturally Aspirated,FWD,automatic,284.0,259.0,40700.0,1,0,0,0
+Nissan,Rogue,2023,Midsize,SUV,I3,Turbocharged,AWD,automatic,201.0,225.0,33205.0,1,0,0,0
+Nissan,Rogue,2023,Midsize,SUV,I3,Turbocharged,FWD,automatic,201.0,225.0,31705.0,1,0,0,0
+Nissan,Rogue,2024,Midsize,SUV,I3,Turbocharged,AWD,automatic,201.0,225.0,34190.0,1,0,0,0
+Nissan,Rogue,2024,Midsize,SUV,I3,Turbocharged,FWD,automatic,201.0,225.0,32690.0,1,0,0,0
+Nissan,Sentra,2023,Midsize,Sedan,I4,Naturally Aspirated,FWD,automatic,149.0,146.0,21420.0,1,0,0,0
+Nissan,Sentra,2024,Midsize,Sedan,I4,Naturally Aspirated,FWD,automatic,149.0,146.0,21820.0,1,0,0,0
+Nissan,Titan,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,400.0,413.0,48930.0,1,0,0,0
+Nissan,Titan,2023,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,400.0,413.0,45650.0,1,0,0,0
+Nissan,Titan,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,400.0,413.0,51630.0,1,0,0,0
+Nissan,Titan,2024,Large,Pickup Truck,V8,Naturally Aspirated,RWD,automatic,400.0,413.0,52875.0,1,0,0,0
+Nissan,Titan XD,2023,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,400.0,413.0,54790.0,1,0,0,0
+Nissan,Titan XD,2024,Large,Pickup Truck,V8,Naturally Aspirated,4WD,automatic,400.0,413.0,58160.0,1,0,0,0
+Nissan,Versa,2023,Compact,Sedan,I4,Naturally Aspirated,FWD,automatic,122.0,114.0,19270.0,1,0,0,0
+Nissan,Versa,2023,Compact,Sedan,I4,Naturally Aspirated,FWD,manual,122.0,114.0,15980.0,1,0,0,0
+Nissan,Versa,2024,Compact,Sedan,I4,Naturally Aspirated,FWD,automatic,122.0,114.0,19970.0,1,0,0,0
+Nissan,Versa,2024,Compact,Sedan,I4,Naturally Aspirated,FWD,manual,122.0,114.0,16680.0,1,0,0,0
+Nissan,Z,2023,Compact,Coupe,V6,Twin-Turbo,RWD,automatic,400.0,350.0,50990.0,1,0,0,0
+Nissan,Z,2023,Compact,Coupe,V6,Twin-Turbo,RWD,manual,400.0,350.0,50990.0,1,0,0,0
+Nissan,Z,2024,Compact,Coupe,V6,Twin-Turbo,RWD,automatic,400.0,350.0,47310.0,1,0,0,0
+Nissan,Z,2024,Compact,Coupe,V6,Twin-Turbo,RWD,automatic,420.0,384.0,65090.0,1,0,0,0
+Nissan,Z,2024,Compact,Coupe,V6,Twin-Turbo,RWD,manual,400.0,350.0,47310.0,1,0,0,0
